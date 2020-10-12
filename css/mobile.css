@@ -1,0 +1,8 @@
+@media (max-width: 500px) {
+  .company-name {
+    font-size: 1.1rem;
+  }
+  .content-section .li-font li {
+    font-size: 0.45rem;
+  }
+}
